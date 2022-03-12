@@ -1,0 +1,265 @@
+.App{
+    color: #000;
+    width: 500px;
+    border: 1px solid black;
+
+}
+.movie{
+  text-align: center;
+
+}
+.nav{
+  background:rgba(250, 248, 248, 0);
+  margin-bottom: 19px;
+  padding: 0px 0px 200px 0px;
+
+}
+.card-body {
+  flex: 1 1 auto;
+  padding: 23px;
+  border-color: #000;
+  width: 262px;
+  margin-block: -8px;
+}
+
+.cardoud{
+margin-bottom: 18px;
+}
+
+.btn-primary{
+  border-color: #000;
+  background-color: blueviolet;
+
+
+}
+nav{
+  background-color: #000;
+}
+
+.img-thumbnail {
+  padding: 0.25rem;
+  background-color: rgba(255, 255, 255, 0);
+  border: 0px solid #dee2e6;
+  border-radius: 0.25rem;
+  max-width: 80%;
+  height:55px;
+}
+.nav-link, .navbar-light .navbar-nav .nav-link.active {
+  color: #7844cb;
+  font-weight: 800;
+  font-style: inherit;
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+    color: rgb(80 5 105 / 89%);
+}
+  
+.card-img-top {
+    max-width: 100;
+    max-height: 100%;
+    padding-bottom: 0px;
+}
+
+
+.page-item:not(:first-child) .page-link {
+  color: rgb(80 5 105 / 89%) ;
+  margin-left: -1px;
+}
+
+.page-item:first-child .page-link {
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    color: rgb(80 5 105 / 89%) ;
+}
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.forkk {
+  display: block;
+  clear: both;
+  width: 90%;
+  max-width: 622px;
+  margin: 197px auto 7px auto;
+  margin-top: -93px;
+}
+.nav {
+ 
+  height: 132px;
+
+}
+.card-text{
+  color:rgb(193, 184, 197) ;
+  font-weight: 100;
+  margin: 7px;
+  padding-top: 10px;
+  size: 8px;
+  text-transform: center;
+
+
+}
+
+.card.text-center {
+  margin: 6px;
+  line-height: 17px;}
+
+img.card-img-top {
+  margin-block: -1px;
+  height: 250px;
+}
+
+nav {
+  display: block;
+  width: 100%;
+  text-align: center;
+  height: auto;
+  background: transparent;
+ 
+}
+label.form-label  {
+  color: #7844cb;
+  font-weight: 800;
+  font-style: inherit;
+}
+label {
+    display: inline-block;
+    color: #7844cb;
+    font-weight: 800;
+    font-style: inherit;
+}
+
+h1.grandtitre {
+  color: #7844cb;
+  font-style: inherit;
+  font-weight: 700;
+}
+.grandtitre {
+  color: #7844cb;
+  font-style: inherit;
+}
+.FB{
+  width: 25px;
+  height: 25px ;
+  margin: 2px;
+}
+.soci{
+  margin-right:15px;
+}
+.tttt{
+  text-align: center;
+
+}
+
+
+element.style {
+  width: 92px;
+}
+.h{
+  color: #7844cb;
+    font-weight: 800;
+    font-style: inherit;
+}
+.inscri{
+  text-align: center;
+  font-style: inherit;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #754cc5;
+  border-color:  #754cc5;
+}
+button.btn.btn-primary {color: #fff;
+  background-color: #754cc5;
+  border-color:  #754cc5;
+}
+a.btn.btn-primary {
+  margin-right: 4px;
+  padding-block: 2px;
+  background-color: #754cc5;
+  border-color:  #754cc5;
+  padding-block: 2px;
+}
+.btn btn-outline-success{
+  padding-block: 2px;
+}
+button.btn.btn-outline-success {
+  margin-right: 4px;
+  background:  #754cc5;
+  color: #FFF;
+border-color: #7844cb;
+padding-block: 2px;
+}
+.text-center {
+  margin-top: -48px;
+  text-align: center;
+}
+.card-title {
+  margin-bottom: 0.5rem;
+  color: rgb(240, 237, 241);
+  text-shadow: 6px -1px 17px #9a65c0;
+  text-align: center;
+  -ms-text-size-adjust: inherit;
+  margin-top: 12px;
+}
+.dddd{
+  padding: 0px 0px 200px 0px;
+
+}
+
+img.card-img-top3 {
+    margin-block: -1px;
+    height: 530px;
+}
+.btn round red small{
+  background-color: rgb(8, 8, 8);
+}
+.film-cover{
+  width: 22rem;
+  height: 28rem;
+padding-left: 50 px;
+margin-left: 1rem;
+margin-top: 2rem;
+border-radius:0%;
+
+}
+.film-cover2{
+  width: 22rem;
+  height: 28rem;
+  padding-left: 50 px;
+  margin-left: 33rem;
+  margin-top: 2rem;
+  border-radius:0%;
+  
+  }
+  .film-cover3{
+    width: 22rem;
+    height: 28rem;
+    padding-left: 50 px;
+    margin-left: -13rem;
+    margin-top: 2rem;
+    border-radius:0%;
+    
+    }
+    .btn-warning {
+      color: #000;
+      background-color: #ffc107;
+      border-color: #ffc107;
+      width: 13rem;
+      height: 3rem;
+    
+  }
+  
